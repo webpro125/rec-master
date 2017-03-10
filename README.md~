@@ -1,9 +1,10 @@
-REC Master
+Recognize
 =========
 
-1. bundle install
-2. copy config/*.yml.sample to .yml
-3. bin/rake recognize:init
+1. git clone git@github.com:Recognize/recognize.git
+2. bundle install
+3. copy config/*.yml.sample to .yml
+4. bin/rake recognize:init
 
 ## Running server
 + Create hostname to l.recognizeapp.com
